@@ -1,0 +1,19 @@
+{
+  "name": "servidor-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testando",
+    "servidor"
+  ],
+  "author": "Victor_Lima",
+  "license": "ISC",
+  "description": "aplicação de estudo nodeJs",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
